@@ -13,9 +13,9 @@
 
 - Prev Software Developer @ Lux Modus **May 2022 – Nov 2023**
 
-<br><br>
-
 - 📫 How to reach me **l2burges@uwaterloo.ca**
+
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
