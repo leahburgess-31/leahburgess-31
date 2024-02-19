@@ -3,15 +3,15 @@
 
 <br><br>
 
-- Incoming iOS Engineering Intern @ Faire **May 2024**
+- **Incoming iOS Engineering Intern @ Faire** - May 2024
 
-- Prev Software Developer @ Uvaro **Jan 2023 - Apr 2023**
+- **Prev Software Developer @ Uvaro** - Jan 2023 - Apr 2023
 
-- Software Developer @ Minvest Finance **Nov 2023 – Present**
+- **Software Developer @ Minvest Finance** - Nov 2023 – Present
 
-- Prev Mobile Developer @ Fadr **Sep 2023 – Dec 2023**
+- **Prev Mobile Developer @ Fadr** - Sep 2023 – Dec 2023
 
-- Prev Software Developer @ Lux Modus **May 2022 – Nov 2023**
+- **Prev Software Developer @ Lux Modus** - May 2022 – Nov 2023
 
 - 📫 How to reach me **l2burges@uwaterloo.ca**
 
