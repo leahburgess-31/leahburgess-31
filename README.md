@@ -2,7 +2,7 @@
 <h2 align="center">https://leahburgess.netlify.app/</h2>
 
 # 💫 About Me:
-A Computer Engineering Student at the University of Waterloo<br><br>Incoming iOS Engineering Intern @ Faire - May 2024<br><br>Prev Software Developer @ Uvaro - Jan 2023 - Apr 2023<br><br>Software Developer @ Minvest Finance - Nov 2023 – Present<br><br>Prev Mobile Developer @ Fadr - Sep 2023 – Dec 2023<br><br>Prev Software Developer @ Lux Modus - May 2022 – Nov 2023
+A Computer Engineering Student at the University of Waterloo<br><br>iOS Engineering Intern @ Faire - May 2024 - Aug 2024<br><br>Prev Software Developer @ Uvaro - Jan 2023 - Apr 2023<br><br>Software Developer @ Minvest Finance - Nov 2023 – Present<br><br>Prev Mobile Developer @ Fadr - Sep 2023 – Dec 2023<br><br>Prev Software Developer @ Lux Modus - May 2022 – Nov 2023
 
 
 ## 🌐 Socials:
